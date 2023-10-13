@@ -10,7 +10,7 @@ The Rick and Morty App is a mobile application developed in Kotlin using Android
 - First-time implementation of RecyclerView and Retrofit in Kotlin.
 
 ## Screenshots
-
+![Sin título-2](https://github.com/ArtielSry/KotlinAndroidApp_RickAndMorty_API/assets/113340763/db2c9a99-8193-486e-b353-1f92a6ccc892)
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
